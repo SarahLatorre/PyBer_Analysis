@@ -1,6 +1,6 @@
 # Plotting Pyber
 ## Overview of Analysis
-Pyber requested assistance in make well-informed changes to their current set-up so they can be more accessible and affordable to their customers. By merging both the city and fare data they provided, I was able to create data frames and data series, that could be portrayed in graphs using Python, Pandas, and Matplotlib.  These graphics help us to see the big picture and where some changes could be made for improvement as well as trends and patterns in the data. 
+Pyber requested assistance in making well-informed changes to their current set-up so they can be more accessible and affordable to their customers. By merging both the city and fare data they provided, I was able to create data frames and data series, that could be portrayed in graphs using Python, Pandas, and Matplotlib.  These graphics help us to see the big picture and where some changes could be made for improvement as well as trends and patterns in the data. 
 
 ## Results and Visualizations
 By creating data frames and data sets, I was able to extract only the information necessary to view the following ride-sharing data.
